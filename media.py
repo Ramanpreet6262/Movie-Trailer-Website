@@ -10,3 +10,5 @@ nysm = project.movie("Now You See Me","https://image.tmdb.org/t/p/original/hGsi9
 movies = [three_idiots, fandf7, fandf8, inters, darkknight, nysm]
 movies=sorted(movies, key=lambda movie:movie.name)
 fresh_tomatoes.open_movies_page(movies)
+
+#code ends
