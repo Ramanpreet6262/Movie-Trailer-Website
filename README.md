@@ -1,14 +1,14 @@
-# THE BEST MOVIE TRAILER WEBSITE
+# Movie-Trailer-Website
 
-This server-side code is written in Python and the data is then served to a web page using
+The server-side code is written in Python and the data is then served to a web page using
 HTML, CSS.
 
-## WHAT IT IS AND WHAT IT DOES?
+## What it is and does
 
 A Python program that produces the HTML for a movie website that displays
 a number of movies. Click on a movie poster to play its trailer.
 
-## HOW TO RUN THE PROJECT
+## How to Run Project
 
 Download the project zip file to you computer and unzip the file. Or clone this
 repository to your desktop.
